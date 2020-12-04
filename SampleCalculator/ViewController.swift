@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  SampleCalculator
-//
-//  Created by Thulya Palihapitiya on 11/15/20.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
